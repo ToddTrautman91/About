@@ -8,6 +8,6 @@ After the pandemic, I explored the state of vitality in the United States and ab
 
 Prior to joining Cigna, I spent almost 15 years with Kaiser Permanente working in strategy management, population health technology, and leading a large organization change in how analytics were organized and delivered.  I started my Kaiser journey building scorecards and dashboards for clinical teams to align strategic goals and operational activities. I was next the chief product owner for population health applications supervising the end-to-end build and maintanence of disease registries, analytics insights, and clincial process automation. As director of the Data Analytics and Reporting Excellence program I drove standards across the analytics teams, partnered with IT-data engineering in data governance, and supported the adoption of agile project management methodologies across 134 analysts and data scientists. 
 
-Prior to moving to industry, I worked full time for six years in academia teaching courses in argumentation, public speaking, and small group communication. I am proud to have coached the 1993 college debate champions from Kansas State University. 
+Prior to moving to industry, I worked full time for four years in academia teaching courses in argumentation, public speaking, and small group communication. I am proud to have coached the 1993 college debate champions from Kansas State University. 
 
 I completed my Ph.D. at the University of Illinois-Urbana, my M.A. at Kansas State University and my B.A. at Concordia College-Moorhead.
